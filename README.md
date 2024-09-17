@@ -7,7 +7,9 @@ This repository contains comprehensive lecture notes on particle physics, coveri
 **Suggested Usage**
 
 **Students**: Use these notes as supplementary reading material alongside your course lectures. The notes provide detailed explanations and worked examples to help reinforce concepts.
+
 **Researchers**: These notes serve as a useful reference guide for particle physics theory and experimental methods, with citations to key literature.
+
 **Instructors**: Feel free to use and adapt these materials for your own teaching purposes. The LaTeX source files make it easy to customize the content for your course.
 
 **License**
