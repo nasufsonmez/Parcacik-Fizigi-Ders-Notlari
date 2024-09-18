@@ -21,4 +21,22 @@ These lecture notes are licensed under the Creative Commons Attribution-NonComme
 For any questions or feedback regarding the lecture notes, feel free to contact me. We also welcome suggestions for additional topics or improvements.
 
 
+There are two sets of lectures and they are based on the book of Introduction to Elementary Particles : Griffiths, David, 2nd revised edition. 
+
+
+**Particle Physics 1**
+  Historical Introduction to the Elementary Particles, What is CERN and what Higgs particle is?
+  Elementary Particle Dynamics
+  Relativistic Kinematics
+  Symmetries
+  Bound States
+
+**Particle Physics 2** (These notes will be uploaded later)
+  The Feynman Calculus
+  Quantum Electrodynamics
+  Electrodynamics and Chromodynamics of Quarks
+  Weak Interactions
+  Gauge Theories
+  Neutrino Oscillations (omitted)
+  Afterword: What's Next?
 
