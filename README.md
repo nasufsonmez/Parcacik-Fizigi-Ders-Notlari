@@ -25,7 +25,7 @@ There are two sets of lectures and they are based on the book of Introduction to
 
 
 **Particle Physics 1**
-  1. Historical Introduction to the Elementary Particles, What is CERN and what Higgs particle is?
+  1. Historical Introduction to the Elementary Particles, What is going on at CERN and what Higgs particle is?
   2. Elementary Particle Dynamics
   3. Relativistic Kinematics
   4. Symmetries
