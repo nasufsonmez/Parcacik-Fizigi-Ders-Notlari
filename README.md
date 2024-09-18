@@ -25,18 +25,18 @@ There are two sets of lectures and they are based on the book of Introduction to
 
 
 **Particle Physics 1**
-  Historical Introduction to the Elementary Particles, What is CERN and what Higgs particle is?
-  Elementary Particle Dynamics
-  Relativistic Kinematics
-  Symmetries
-  Bound States
+  1. Historical Introduction to the Elementary Particles, What is CERN and what Higgs particle is?
+  2. Elementary Particle Dynamics
+  3. Relativistic Kinematics
+  4. Symmetries
+  5. Bound States
 
 **Particle Physics 2** (These notes will be uploaded later)
-  The Feynman Calculus
-  Quantum Electrodynamics
-  Electrodynamics and Chromodynamics of Quarks
-  Weak Interactions
-  Gauge Theories
-  Neutrino Oscillations (omitted)
-  Afterword: What's Next?
+  1. The Feynman Calculus
+  2. Quantum Electrodynamics
+  3. Electrodynamics and Chromodynamics of Quarks
+  4. Weak Interactions
+  5. Gauge Theories
+  6. Neutrino Oscillations (omitted)
+  7. Afterword: What's Next?
 
