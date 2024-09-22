@@ -10,8 +10,6 @@ This repository contains comprehensive lecture notes on particle physics, coveri
 
 **Researchers**: These notes serve as a useful reference guide for particle physics theory and experimental methods, with citations to key literature.
 
-**Instructors**: Feel free to use and adapt these materials for your own teaching purposes. The LaTeX source files make it easy to customize the content for your course.
-
 **License**
 
 These lecture notes are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. This means you are free to share and adapt the material as long as you give appropriate credit, do not use the material for commercial purposes, and distribute any modified versions under the same license.
